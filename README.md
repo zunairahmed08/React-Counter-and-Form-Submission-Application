@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Title
 
 React Counter and Form Submission Application
@@ -69,3 +70,6 @@ npm run dev
 
 Step 3: Open the application in the browser
 http://localhost:5173/
+=======
+# React-Counter-and-Form-Submission-Application
+>>>>>>> b187cc2c44422758acb3c0623e32d5ee110992da
