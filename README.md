@@ -4,7 +4,7 @@ Introduction
 
 This project is a simple React-based application designed to demonstrate the concepts of state management, event handling, form validation, list rendering, and the use of browser localStorage. The application contains a counter feature and a form submission system that stores and displays user-entered data.
 
-Features
+## Features
 1. Counter System
 
 Increment, decrement, and reset functionality
