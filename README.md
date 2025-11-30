@@ -1,7 +1,4 @@
-<< HEAD
-Project Title
-
-React Counter and Form Submission Application
+ # React Counter and Form Submission Application
 
 Introduction
 
